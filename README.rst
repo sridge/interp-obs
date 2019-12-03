@@ -2,7 +2,7 @@
 Interp-Ocean-Obs
 =============================
 
-Quickly interpole observations
+Quickly interpolate ocean observations
 
 Try these notebooks on pangeo.binder.io_ : |Binder|
 
